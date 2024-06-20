@@ -16,6 +16,7 @@
 }
 
 .form {
+  display: flex;
 }
 
 .input {
@@ -37,6 +38,19 @@
 .icon-search {
   width: 18px;
   height: 17px;
+}
+
+.language-changer {
+  font-size: 24px;
+  display: flex;
+  color: white;
+}
+
+.language-changer-button {
+  font-size: 24px;
+  border: none;
+  background: none;
+  color: white;
 }
 
 .icon-favorite-light {
